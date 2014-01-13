@@ -11,18 +11,18 @@
  *
  * ----------------------------------------------------------------------------
  *
- * \file uart_config.h
+ * \file uart_config_example.h
  *
  * USART is setup without interrupt usage! ATmega 8 is used here.
  *
- * \date Created: 28.11.2011 18:17:15
+ * \date Created: 13.01.2014 22:05
  * \author Matthias Kleemann
  **/
 
 
 
-#ifndef UART_CONFIG_H_
-#define UART_CONFIG_H_
+#ifndef UART_CONFIG_EXAMPLE_H_
+#define UART_CONFIG_EXAMPLE_H_
 
 
 #ifndef UART_BAUDRATE
