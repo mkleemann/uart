@@ -1,5 +1,5 @@
 AVR module: UART - Universal Asynchronous Receiver Transmitter 
-==============================================================
+==============================================================================
 
 A submodule used in other projects. Currently cmake is used to build a library
 of the module. The path structure within the project should be as follows.
